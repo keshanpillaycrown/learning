@@ -1,1 +1,3 @@
 The quick brown fox jumps over the lazy dog
+
+red, blue, green, yellow, pink, orange
